@@ -1,7 +1,7 @@
 ---
 import Layout from '~/layouts/LandingLayout.astro';
 
-import Hero from '~/components/widgets/Hero.astro';
+import Hero2 from '~/components/widgets/Hero2.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 
 const metadata = {
@@ -12,11 +12,11 @@ const metadata = {
 ---
 
 <Layout metadata={metadata}>
-  <!-- Hero Section using Hero widget -->
-  <Hero
-    tagline="Wing your posts. Win your time."
-    title="🚀 PostWing - Adds WINGS to your content. You create, We Fly."
-    subtitle="Your AI-powered co-pilot for Threads, Twitter & LinkedIn. Plan, post, and auto-engage with your audience — without lifting a finger."
+  <!-- Hero Section -->
+  <Hero2
+    tagline="You create, we fly."
+    title="Your AI-powered co-pilot for Threads, Twitter & LinkedIn"
+    subtitle="Plan, post, and auto-engage with your audience — without lifting a finger."
     actions={[
       {
         variant: 'primary',
@@ -30,7 +30,7 @@ const metadata = {
       },
     ]}
     image={{
-      src: 'https://i.imgur.com/e1oTCl8.png',
+      src: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=2069&q=80',
       alt: 'Flying paper airplane symbolizing automated content',
     }}
   />
