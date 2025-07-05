@@ -11,7 +11,7 @@ metadata:
   title:
     default: 🚀PostWing
     template: '%s — PostWing'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 SPostWing is an AI-powered social media co-pilot that helps creators plan, post, and automatically reply to comments across Threads, Twitter, and LinkedIn. Grow faster with less burnout."
   robots:
     index: true
     follow: true
