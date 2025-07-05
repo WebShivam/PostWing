@@ -10,21 +10,21 @@ site:
 metadata:
   title:
     default: 🚀PostWing
-    template: '%s — AstroWind'
+    template: '%s — PostWing'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: PostWing
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
+    handle: '@twitter_user'
+    site: '@twitter_user'
     cardType: summary_large_image
 
 i18n:
