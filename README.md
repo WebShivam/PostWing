@@ -1,6 +1,9 @@
 # 🚀 PostWing — The AI-Powered Co-Pilot for Creators
 
-> **Note:** This project is still in its early development phase. Features are being actively built and iterated. Not production-ready yet.
+> **Note:
+** This project is still in its early development phase. Features are being actively built and iterated. Not production-ready yet.
+
+![PostWing Logo Design-banner](https://github.com/user-attachments/assets/1ac46327-4c67-4548-8ce2-3bd26436e048)
 
 ---
 
@@ -28,6 +31,8 @@ Our goal is to reduce content fatigue and help creators grow with consistency �
 
 ---
 
+⭐ Like the idea? Star the repo, share with friends, and join our waitlist!
+---
 ## 🧱 Tech Stack
 
 | Layer    | Tool / Framework                            |
@@ -95,10 +100,6 @@ A: Not yet. It’s under active development. You can still join the waitlist.
 
 **Q: What makes it different?**  
 A: It’s made specifically for Threads, Twitter, and LinkedIn — with AI that engages *like you*.
-
----
-
-> ⭐ Like the idea? Star the repo, share with friends, and join our waitlist!
 
 ---
 
